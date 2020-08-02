@@ -1,3 +1,3 @@
 # Write your code here.
 def line(x)
-  if line
+  line_array = []
