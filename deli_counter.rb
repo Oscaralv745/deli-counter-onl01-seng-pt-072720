@@ -8,7 +8,3 @@ def line(array)
     end
   end
 end
-
-def line(array)
-  while array == 0 
-  puts "The line is currently empty."
